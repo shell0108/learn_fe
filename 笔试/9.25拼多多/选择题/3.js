@@ -1,0 +1,5 @@
+console.log(1 == 2 == 0)
+console.log(null == undefined)
+console.log(1 == 2 === 0)
+console.log(NaN == NaN)
+console.log(null instanceof Object)
